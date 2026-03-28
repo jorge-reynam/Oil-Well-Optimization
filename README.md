@@ -26,6 +26,25 @@ This project focuses on selecting the most profitable region to develop 200 oil 
 - Profit calculation based on business constraints
 - Bootstrapping (1000 samples) for risk analysis
 
+## Key Visualizations
+
+### Predicted vs Actual Values
+![Predictions vs Actual](images/prediction_vs_actual.png)
+
+This plot compares predicted oil reserves against actual values. The closer the points are to the diagonal line, the better the model performance. The results show a reasonable fit, indicating that the model captures the general trend despite some prediction errors.
+
+
+### Distribution of Predicted Reserves
+![Reserves Distribution](images/reserves_distribution.png)
+
+This histogram shows how predicted reserves are distributed. It helps identify the typical range of expected production and detect any extreme values that could impact decision-making.
+
+
+### Prediction Error Distribution
+![Error Distribution](images/error_distribution.png)
+
+This visualization shows the distribution of prediction errors. A centered distribution around zero indicates that the model is not heavily biased, while the spread reflects the magnitude of prediction uncertainty.
+
 ## Key Metrics
 - Budget: $100M
 - Wells selected: 200
