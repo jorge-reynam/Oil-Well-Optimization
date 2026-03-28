@@ -1,5 +1,9 @@
 # Oil-Well-Optimization
-Oil Well Location Optimization using Machine Learning
+Machine Learning project to optimize oil well selection and maximize profitability under uncertainty.
+
+## Executive Summary
+This project focuses on optimizing oil well location selection using machine learning techniques. 
+By analyzing geological and production data, the model identifies the most profitable drilling locations while minimizing financial risk. The results support data-driven decision-making in resource extraction and investment planning.
 
 ## Project Overview
 This project focuses on selecting the most profitable region to develop 200 oil wells using predictive modeling and risk analysis.
