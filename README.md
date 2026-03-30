@@ -63,8 +63,17 @@ This visualization shows the distribution of prediction errors. A centered distr
 - Bootstrapping provides reliable uncertainty estimation
 - Optimal selection strategy is more important than average performance
 
-## Conclusion
-Region 1 is the best choice due to its balance between profitability and low risk.
+## Conclusion and Final Recommendation
+
+Based on the analysis, **Region 1 is the optimal choice for oil well development**, as it provides the best balance between profitability and risk.
+
+While other regions may offer higher potential returns, they exceed the acceptable risk threshold (2.5%), making them less viable from a business perspective. In contrast, Region 1 delivers **stable expected profits with controlled risk**, supported by bootstrapping results and confidence intervals.
+
+This indicates that prioritizing **risk-adjusted returns over maximum output** leads to more reliable and sustainable investment decisions.
+
+Therefore, it is recommended to proceed with Region 1 for the development of the 200 oil wells.
+
+This approach reduces the probability of financial loss while ensuring consistent returns, making it a robust strategy for investment planning.
 
 ## Next Steps
 - Test more advanced models (Random Forest, Gradient Boosting)
